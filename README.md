@@ -15,14 +15,13 @@ Farmers Aid Portal is an initiative aimed at providing valuable information and 
 
 Team Members
 Backend Developer (You):
+Played a key role in developing the backend of the portal, ensuring efficient data management and overall functionality. <br> 
 
-Played a key role in developing the backend of the portal, ensuring efficient data management and overall functionality.
 Frontend Developers:
+Responsible for creating an intuitive and user-friendly frontend interface for farmers to interact with.<br>
 
-Responsible for creating an intuitive and user-friendly frontend interface for farmers to interact with.
 Data Analyst:
+Worked on gathering and analyzing agricultural data to provide comprehensive statistics to farmers.<br>
 
-Worked on gathering and analyzing agricultural data to provide comprehensive statistics to farmers.
 UI/UX Designer:
-
 Designed an aesthetically pleasing and accessible user interface for an optimal user experience.
